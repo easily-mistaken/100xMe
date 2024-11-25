@@ -1,6 +1,4 @@
 import connectDB from "./db";
-import { DB_NAME } from "./config/constants";
-import mongoose from "mongoose";
 import dotenv from "dotenv";
 dotenv.config();
 
